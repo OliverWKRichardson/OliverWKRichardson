@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @OliverWKRichardson
-- 🌱 I’m currently learning Computer Science
+- Hi, I’m Oliver
+- I’m currently learning Computer Science at the University of Kent
 
 <!---
 OliverWKRichardson/OliverWKRichardson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
